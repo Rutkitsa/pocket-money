@@ -9,7 +9,7 @@ const firebaseConfig = {
   authDomain:        "pocket-money-d754e.firebaseapp.com",
   databaseURL:       "https://pocket-money-d754e-default-rtdb.firebaseio.com",
   projectId:         "pocket-money-d754e",
-  storageBucket:     "pocket-money-754e.firebasestorage.app",
+  storageBucket:     "pocket-money-d754e.firebasestorage.app",
   messagingSenderId: "164163551777",
   appId:             "1:164163551777:web:f609ae1fe4b0911cf61960",
 };
